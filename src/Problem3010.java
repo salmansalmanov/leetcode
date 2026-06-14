@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem3010 {
     public static void main(String[] args) {
         System.out.println(minimumCost(new int[]{5, 10, 1, 20}));

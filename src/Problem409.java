@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem409 {
     public static void main(String[] args) {
         System.out.println(longestPalindrome("bb"));

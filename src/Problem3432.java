@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem3432 {
     public static void main(String[] args) {
         System.out.println(countPartitions(new int[]{10, 10, 3, 7, 6}));

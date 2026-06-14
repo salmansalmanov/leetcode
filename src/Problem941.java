@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem941 {
     public static void main(String[] args) {
         System.out.println(validMountainArray(new int[]{0, 3, 2, 1}));

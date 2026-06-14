@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem3300 {
     public static void main(String[] args) {
         System.out.println(minElement(new int[]{999, 19, 999}));

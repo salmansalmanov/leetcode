@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem2609 {
     public static void main(String[] args) {
         System.out.println(findTheLongestBalancedSubstring("01000111"));

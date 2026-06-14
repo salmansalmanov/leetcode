@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem2432 {
     public static void main(String[] args) {
         System.out.println(hardestWorker(2, new int[][]{

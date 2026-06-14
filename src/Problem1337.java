@@ -1,5 +1,3 @@
-package easy;
-
 import java.util.Arrays;
 
 public class Problem1337 {

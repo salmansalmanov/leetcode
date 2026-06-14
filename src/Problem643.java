@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem643 {
     public static void main(String[] args) {
         System.out.println(findMaxAverage(new int[]{1, 12, -5, -6, 50, 3}, 4));

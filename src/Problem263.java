@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem263 {
     public static void main(String[] args) {
         System.out.println(isUgly(14));

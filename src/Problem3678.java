@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem3678 {
     public static void main(String[] args) {
         System.out.println(smallestAbsent(new int[]{3, 5}));

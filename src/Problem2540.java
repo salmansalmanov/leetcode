@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem2540 {
     public static void main(String[] args) {
         System.out.println(getCommon(new int[]{1000000000, 1000000000}, new int[]{1000000000}));

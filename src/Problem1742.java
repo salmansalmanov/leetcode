@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem1742 {
     public static void main(String[] args) {
         System.out.println(countBalls(1, 100_000));

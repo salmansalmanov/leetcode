@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem2373 {
     public static void main(String[] args) {
 //        int[][] arr = new int[][]{

@@ -1,5 +1,3 @@
-package easy;
-
 import java.util.List;
 
 public class Problem3541 {

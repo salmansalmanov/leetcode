@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem1869 {
     public static void main(String[] args) {
         System.out.println(checkZeroOnes("110100010"));

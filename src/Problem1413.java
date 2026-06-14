@@ -1,5 +1,3 @@
-package easy;
-
 public class Problem1413 {
     public static void main(String[] args) {
         System.out.println(minStartValue(new int[]{1, 2, 3}));
